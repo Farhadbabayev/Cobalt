@@ -1,0 +1,55 @@
+{
+  "name": "Baku Tower",
+  "slug": "baku-tower",
+  "displayName": "Baku Tower",
+  "order": 11,
+  "draft": false,
+  "projectType": "Interior Design",
+  "authors": "Ints Mengelis",
+  "team": "Ints Mengelis • Aygun Budaq\nGunay Mammadova\n• Parviz Polukhzada",
+  "status": "Proposal",
+  "year": "2019",
+  "about": "We are pleased to introduce a business design concept of the highest level that a notable sociologist Henri Lefebvre is precisely noting in his work “Production of Space.”He writes: “This is a Space of Presentation to which we assign a meaning. Rapidly and constantly changing Space in which we live. All strata of the society can find something interesting in this “Third Space” - cafes, clubs, libraries, etc.",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4360ccb1b5534aa3e181_icon.webp",
+  "inSlider": false,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4152c1046d2eb6f566f4_header%20(1).webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/64477d8d8b0411018ebc9cc2_Asset%204%404x.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4239b57ed5673c3d3fb4_A%20head%20img%201%20(1).webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4238af7a5081508a94a4_A%20head%20img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea42386f772c79618e7c96_A%20head%20img%203.webp"
+    ],
+    "image": "",
+    "description": "This is a place representing a mixture of private and public lives where people meet, discuss and share ideas discuss or rest. This is not a functional or purposeful workstation. It is neither a private or isolated house. This is rather some unique Space with an elevated taste that prioritizes public values. The main building consists of two intersecting volumes of different heights and floors - this is due to the location’s geographical relief. Thus, we have accomplished 3 levels: an entrance, a living room and a kitchen are located in the main level, a gym and a small spa in the lower. Bedrooms are positioned in a separate part of the upper level.\nThe simplicity and asceticism of Shamakhi Villa are combined with innovative engineering and architectural solutions.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/644781ce051b334e3eb7b9a5_Asset%205%404x.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/644781d82335cc80dbd35094_Asset%206%404x.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/644781d5f4af34bd9b070106_Asset%207%404x.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea44d8272690766dbeddad_Artboard%202%404x.webp",
+    "description": "The main building consists of two intersecting volumes of different heights and floors - this is due to the location’s geographical relief. Thus, we have accomplished 3 levels: an entrance, a living room and a kitchen are located in the main level, a gym and a small spa in the lower. Bedrooms are positioned in a separate part of the upper level. The simplicity and asceticism of Shamakhi Villa are combined with innovative engineering and architectural solutions Informal place where people meet in small groups, and where a special environment creates a feeling of community among those persons.” Thus, “A Third Space” is the new public place in the city. Located on the lower part of the slope, the main building is protected from noise and concealed from view by dense vegetation. The wooded terrain creates privacy for each building on the property. For example, the workshop and guest houses are quite close to the main building, however their presence is not immediately apparent thanks to the surrounding greenery. The terrain with its prominent trees and mountains is connected to the villa by trails that complement the diverse natural landscape..",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea44acb0f16b5b98906699_Artboard%201%404x%20(1).webp"
+    ],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea46736f772c4d4a8ec941_-2_CAM_006%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea488a94656b1f6a34232b_-2_CAM_005%201.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea46f4012f07eaf0e6b8bc_4%20358.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4710d4e0313793a5f79d_6%208.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea48d83d83d87065b6b046_inter%20multi-img-2%202.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

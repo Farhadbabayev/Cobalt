@@ -1,0 +1,46 @@
+{
+  "name": "L’Avenue",
+  "slug": "lavenue",
+  "displayName": "L’Avenue",
+  "order": 4,
+  "draft": false,
+  "projectType": "Restaurant",
+  "authors": "Karlis Saltups",
+  "team": "• Karlis Saltups• Agnese Vilkausa\n• Janis Gavars\n• Dace Karole\n• Aygun Budaq• Yazgul Ismayilova",
+  "status": "Finished",
+  "year": "2019",
+  "about": "This place is a story about food, first and foremost. Second, it’s about the celebration of life. Third, it’s about a space that entwines relishing both food and life itself. To tell these stories, the interior has been designed as a postcard that gives a clear vision – it must be taken in France.\nThe frame of the postcard – the impressive proportion of the space that provides the foundation for design. The content of the postcard – a carefree breeze of the holidays with a strong tradition for design.",
+  "featured": true,
+  "featuredImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54f54d8cef9b32ccb00e9_lavenue_selected.png",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d76948746a18819766e272_Annvil_Baku_6-990x661%201.png",
+  "inSlider": true,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54eca13f3a73ec632205b_lavenue.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6435096231b3f543c78451fe_exterior.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54ef1aac0be3eea2af398_A%20head%20img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54ef11c71e033daef63bf_A%20head%20img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54ef1684108e5b2c0aade_A%20head%20img%203.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54ef70f220476a989e066_arch%20desc%20img.webp",
+    "description": "L'Avenue restaurant is a place of gastronomic pleasure located at the New Boulevard, close to the Flag square. The restaurant itself looks like a beautiful garden - it is very green, elegant and full of sunshine. The wonderful view at The Caspian Sea speaks for itself. Inspired by the atmosphere of the azure shores of French Riviera, L’Avenue team has brought a unique French spirit and cuisine to Baku. The taste of wonderful wines, delicious dishes and exquisite cheese introduced by our talented chefs, invites you to experience the charming Parisian evenings. Bon Appétit!",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54f039eb1ee7e8c61f521_Arch%20multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54f0313f3a722763222d3_Arch%20multi-img%202.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54f21f3546d69fba7a5ac_inter%20desc%20image.webp",
+    "description": "This restaurant is first and foremost a story about exquisite cuisine. Second, it’s about a celebration of lifestyle. Third, it’s about a space that encourages you to savor both delicious food and life. To tell these stories, the interior has been designed as a postcard that conveys a spirit and delicacy of France. We have invented this special place adhering to our strong tradition for design, yet managed to produce a delicate French postcard that makes you feel a carefree breeze of holidays. The building has exits to terraces of different functional purposes. They are interconnected by bridges and stairs this allows to choose the most comfortable place depending on the preference and type of rest. Outside the villa windows there is a beautiful view of the mountains.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2ceedddbd25090da8db9_inter%20multi-img%201.webp"
+    ],
+    "horizontalImages": [],
+    "images2": [],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

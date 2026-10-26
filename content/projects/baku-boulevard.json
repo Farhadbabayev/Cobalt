@@ -1,0 +1,49 @@
+{
+  "name": "Baku Boulevard",
+  "slug": "baku-boulevard",
+  "displayName": "BAKU BOULEVARD",
+  "order": 8,
+  "draft": false,
+  "projectType": "City Planning",
+  "authors": "Karlis Saltups",
+  "team": "Karlis Saltups • Ekaterina morozova•\nLeyla Musayeva • Chichek Bayramli• Togrul Bayramov • Nigar Agisheva Muslim Imranli",
+  "status": "",
+  "year": "2019",
+  "about": "At the moment the old part of Primorskaya Embankment represents an extensive plot without a fundamental general idea. Logical and stylistic inconsistency of the park as well as the objects located on it do not allow for implementation possibilities for the main recreational area of the capital city Baku.According to the new concept\nof the boulevard, there will be 3 main pedestrian connections including cycling infrastructure.\nAlong with the main route it is planned to launch trade, household, cultural and entertainment facilities.",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ecb159aae64210e1673038_ICON.webp",
+  "inSlider": false,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb86ee14c240916c9192fb_Baku%20boulevard.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/642187b19fac2371b781a62e_add.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4b49a992c924d6f2c1218_ABOVE.webp",
+    "description": "",
+    "images": []
+  },
+  "interior": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4b5d62a45bb94acbcdf85_Group%20954.webp",
+    "description": "",
+    "images": [],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb2ae2e927bd669a44b669_inter%20multi-img-2%201.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb29b2e927bd275544a961_inter%20vert-multi-img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb29a4a4e1646a6478033b_inter%20vert-multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6447d437e21e9529dddb0dcc_Asset%203%404xe.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6447c931d88691c60d7eda2d_Asset%204%404xe.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6447c93b9ba5185c551d04c2_Asset%205%404xe.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6447c9e8d30d4bded6138b1a_Asset%206%404xe.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6447c9eaebc6667cc2ebefe9_Asset%207%404xe.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6447c9e8d66ec636ac327d51_Asset%208%404xe.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6447c949fe2312ce8a526158_Asset%209%404xe.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Besh Barmag",
+  "slug": "besh-barmag",
+  "displayName": "Besh Barmaq",
+  "order": 7,
+  "draft": false,
+  "projectType": "Pilgrim Camp Regeneration",
+  "authors": "Guntis Zingis",
+  "team": "Guntis Zingis • Ardit Elezi\nAygun Budaq • Leyla Musayeva Togrul Bayramov • Muslim Imranli Gunay Mammadova",
+  "status": "Proposal",
+  "year": "2019",
+  "about": "The site is located in Siazan district of Azerbaijan, in the small valley, behind the rock of Besh Barmag (Five Finger mountain). Five Finger mountain is located at the end of the Caucasus mountain range, near the Caspian sea. It rises to 382 m above the sea level overlooking the Baku-Quba highway. The mountain is a solid rock and is one of the most famous mountains in the Caucasus, known for its mythical stories. This is a Sacred place where people are coming for religious reasons, celebrate Eid al-Adha and seeking healing power.",
+  "featured": true,
+  "featuredImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3e3f7a94fb94ee8d1fef3_beshbarmaq_selected.png",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d769620468797f26a5db48_011_BSH_Beshbarmaq%20(3)%204.png",
+  "inSlider": true,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55ab23dc29b422c9cf690_besh%20barmag%20pilgrim%20camp.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55acdc09c1b6b47a6391b_Feature%20vidIMG.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55ad30f22047a668acf6c_A%20head%20img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55ad2874a871deac09a95_A%20head%20img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55ad3d8cef97f62cbdae4_A%20head%20img%203.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55af4523677a9ed1c645e_arch%20desc%20img.webp",
+    "description": "There are also others frequent visitors of this place: Tourists, Rock climbers and Birdwatchers. The idea is to protect and clean the existing site, create better conditions for visitors, build small structures from local stones with minimal impact on Nature. Project includes design of small visitor center with a cafe (and toilets), few tents for tea drinking, new Mosque on the hill with reconstructed paths to the Pir. At the heart of the architectural idea is to highlight this sacred site and the magnificence of nature, to create a new Mosque, Visitor center with amenities, a Café or tea house, and Gurbangah. All buildings are designed to integrate into the terrain to avoid damaging the views and landscape. Cobalt team has implemented site analysis and determined main problems: poor sanitation and contamination of nature. The valley is home to several self-made structures: sheds, a well, toilets and a small prayer house - all these do not meet sanitary standards. Plastic and other waste is simply buried or incinerated. Such contamination is a disrespect for Nature and this holy place.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2e28bb15a6f77d007d75_Arch%20multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/643515c098dcca135d23a283_Pilgrim%20bird%20view%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/643fcbd761d408133fb10ca5_223.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b2c684108d254c1bcc1_inter%20head%20img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b2d9eb1ee5e0462f3db_inter%20head%20img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b2d6f089e213b9fbb05_inter%20head%20img%203.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b349eb1ee0d8862f50b_inter%20desc%20image.webp",
+    "description": "Project will leave a minimal footprint in nature. To protect the area from rainwater and groundwater, a small retaining wall is provided. Rainwater is to be collected and used for watering trees. There are about 100 wild pear trees are to be planted in the area, a horse paddock and a children’s playground. In order not to dominate, all buildings are designed to be one-story with a local stone finish. Stone, concrete and wood are used for facades to fit the local context and create coziness. The project aims to use a local source to provide drinking water. A small service building for staff and equipment storage is provided for waste management and site maintenance. In order not to dominate, all buildings are designed to be one-story with a local stone finish. Stone, concrete and wood are used for facades to fit the local context and create coziness. The project aims to use a local source to provide drinking water. A small service building for staff and equipment storage is provided for waste management and site maintenance. We have also made a proposal for the reconstruction of the existing pathways that take the visitors to the existing Pir, and renovated Mosque in the future. We are suggesting to keep and repair these steps and pathways as well as construct viewpoints (platforms), and resting zones.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b4013f3a75ea8332f8c_inter%20multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/643fbe68a41806168b81dfcc_Asset%201%404x-edit.webp"
+    ],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b4b68410819dbc1c216_inter%20vert-multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b4bb0a17e02f4e30f1d_inter%20vert-multi-img%202.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b58e579c8ebd1cc1821_inter%20multi-img-2%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b5752367748db1c6c76_inter%20multi-img-2%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b57026df8be4c117f47_inter%20multi-img-2%203.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b56874a87dfa1c0a166_inter%20multi-img-2%204.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b573dc29b219d9cfdc5_inter%20multi-img-2%205.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55b566f089e95a09fbd7c_inter%20multi-img-2%206.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

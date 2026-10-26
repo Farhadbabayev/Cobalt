@@ -1,0 +1,46 @@
+{
+  "name": "Asan Service",
+  "slug": "asan-service",
+  "displayName": "",
+  "order": 12,
+  "draft": false,
+  "projectType": "Social Infrastructure",
+  "authors": "ints mengelis",
+  "team": "Ints Mengelis•Eduards Beernaer•tsKarlis Saltups•Gunay Mammadova•Asgar Asgarov•Parviz Polukhzada",
+  "status": "Completed",
+  "year": "2019",
+  "about": "Sumqayit is one of the major cities of Azerbaijan, known from medieval times. Sumqayit lies at the mouth of the Sumqayit river as it enters the Caspian Sea. The recent history of the city is reflected in its symbol of the dove, a bird of peace. The placement of the building is in harmony with the natural view from the boulevard. Wing-like composition of two building volumes represents the city symbol - the dove. The lowest volume is hidden under the car parking area, while the highest volume stands out as the central element of the site.",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4a93c90e427de1f67807_ICON.webp",
+  "inSlider": false,
+  "sliderImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4a93c90e427de1f67807_ICON.webp",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea49e5eb5ba1b383f89b48_heade3r.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4ac13d83d820c2b6c59c_Feature%20vidIMG.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4add4335641113d19438_A%20head%20img%201%20(1).webp",
+    "description": "",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4b2e75b2acfb1d25a18a_Arch%20multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4b4768eab465c54dd563_Arch%20multi-img%202.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4b674281ba35c452939e_inter%20head%20img%201.webp",
+    "description": "",
+    "images": [],
+    "horizontalImages": [],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4c5ccfefd1d4fab42cef_arch%20desc%20img.webp"
+    ],
+    "horizontalImages2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4b92d57aab64c9d6ee7e_inter%20multi-img%201.webp"
+    ],
+    "images3": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea4b92d57aab64c9d6ee7e_inter%20multi-img%201.webp"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Lilac",
+  "slug": "lilac",
+  "displayName": "Lilac",
+  "order": 5,
+  "draft": false,
+  "projectType": "Commercial / Interior Design",
+  "authors": "Karlis Saltups",
+  "team": "Ekaterina Morozova, Aida Babayeva, Gunay Mammadova",
+  "status": "Completed",
+  "year": "2020",
+  "about": "Cobalt architects were tasked with creating a design for a flower retail store located in the heart of Baku. The design of the new store had a very clear concept of allowing the customers to shop in a comfy way and feel the atmosphere where simplicity is revealed with elegance.",
+  "featured": true,
+  "featuredImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54d016aee26a5d136d25f_lilac_selected.png",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d7695730313d302d51c9be__DGM4662_3_4_5_6_Average%202.png",
+  "inSlider": false,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54d4d026df8e9421068b1_lilac.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6448cfaf54c5169200454a00_Asset%2010%404xe.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54df9d8cef99c8ecaeb90_A%20head%20img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54df913f3a77350321536_A%20head%20img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54dfad03a893fb0a4d69d_A%20head%20img%203.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54e0352367770651b34bd_arch%20desc%20img.webp",
+    "description": "The experience in terms of service had to have a positive impact on the client and its behaviors towards the process. Cobalt deliberately inserts new design elements to embody the brand: young and exquisite. The entire store is built of three main materials, in their raw, pure state - concrete, wood boards, and galvanized steel. The ensemble of each part results in a welcoming place of great warmth and finish, defined by the qualities of the materials, the carefully crafted details, and its lighting.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/64351a7ed7ef3c32cbfa6907_Asset%208DED2232222.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/64350b2ce5b4b3f6e1b52644_asdasd.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [],
+    "image": "",
+    "description": "",
+    "images": [],
+    "horizontalImages": [],
+    "images2": [],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

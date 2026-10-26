@@ -1,0 +1,47 @@
+{
+  "name": "Besh Barmag Rest Stop",
+  "slug": "besh-barmag-rest-stop",
+  "displayName": "Besh Barmaq, Rest Stops",
+  "order": 10,
+  "draft": false,
+  "projectType": "Infrastructure",
+  "authors": "Guntis Zingis",
+  "team": "Guntis Zingis• Ardit Elezi • Seymur Alizade • Roman Kaziyev • Royal Jamalli• Togrul Bayramov • Muslim Imranli • Gunay Mammadova",
+  "status": "Proposal",
+  "year": "2019",
+  "about": "The site is located in Siazan district of Azerbaijan, in the small valley, behind the rock of Besh Barmag (Five Finger mountain). Five Finger mountain is located at the end of the Caucasus mountain range, near the Caspian sea. It rises to 382 m above the sea level overlooking the Baku-Quba Highway. The mountain is a solid rock and is one of the most famous mountains in the Caucasus, known for its mythical stories. This is a Sacred place where people are coming for religious reasons, celebrate Gurban bayramı and looking for healing power.",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2374d688765da3929af5_small%20photo.webp",
+  "inSlider": false,
+  "sliderImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2374d688765da3929af5_small%20photo.webp",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea20183746d14674fb8242_header.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea239b057bfd5e2f1690ae_Feature%20vidIMG.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea273dfd8efb0aad2cfbb0_A%20head%20img%201%20(2).webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea249a4e2d374ebfd32ae2_arch%20desc%20img.webp",
+    "description": "The idea is to protect and clean the existing site, create better conditions for visitors, and build small structures from local stones with minimal impact on Nature. The project includes the design of a small visitor center with a cafe (and toilets), a few tents for tea drinking, new Mosque on the hill with reconstructed paths to the Pir. At the heart of the architectural idea is to highlight this sacred site and the magnificence of nature, to create a new Mosque, a Visitor Center with amenities, a Café or tea house, and Gurbangah. All buildings are designed to integrate into the terrain to avoid damaging the views and landscape. Cobalt team has implemented site analysis and determined the main problems: poor sanitation and contamination of nature. The valley is home to several self-made structures: sheds, a well, toilets, and a small prayer house - all these do not meet sanitary standards. Plastic and other waste are simply buried or incinerated. Such contamination is disrespect for Nature and this holy place.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea252a171f07d069b6fb94_Arch%20multi-img%201.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea278407e4c2ddcb686047_Arch%20multi-img%202.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2599ccfb33093514dfc3_Arch%20multi-img%203.webp",
+    "description": "",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea27d07fcc4168c1e37651_Arch%20multi-img%204%20(1).webp"
+    ],
+    "horizontalImages": [],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea28191995745a9044a838_Arch%20multi-img%205%20(1).webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

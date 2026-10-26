@@ -1,0 +1,55 @@
+{
+  "name": "Pit Stops \"Dayan-Dincəl\"",
+  "slug": "pitstop",
+  "displayName": "PIT STOPS",
+  "order": 2,
+  "draft": false,
+  "projectType": "Infrastructure",
+  "authors": "Karlis Saltups",
+  "team": "Guntis Zingis • Ardit Elezi\n• Aygun Budaq • Leyla Musayeva Seymur Alizade • Roman Kaziyev\n• Togrul Bayramov • Gunay Mammadova Muslim Imranli",
+  "status": "Ongoing",
+  "year": "2022",
+  "about": "Pit stops that we are constructing all over Azerbaijan offer a place to rest during a trip. The ongoing project is called “Dayan-Dincəl.”\nHaving started in 2018 the project aims to boost mobility among Azerbaijani cities and facilitate tourism development.\nWe collaborated with the local government and analyzed carefully all the roads, locations as well as touristic destinations for the smart placement of “Dayan-Dincəl” pit stops. This allowed us to map all the pit stops at the most convenient locations both for the local travelers and foreign visitors. Each pitstop is arranged within an interval of 25 kilometers.",
+  "featured": true,
+  "featuredImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d0ff03c389464e33ef27_pitstop_slectected.png",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d7697225c16a1d3be56ff7__DGM7079-HDR%201.png",
+  "inSlider": true,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f5d511d33aa901b0f103f1_Group%20871.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d8032d85362ee3d08907_header.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9c2811b7aeda5e3c085_A%20head%20img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9c2bbc9e9b39938fb99_A%20head%20img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9c29341fc5ec65442c7_A%20head%20img%203.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9cf93527feb6577b2de_arch%20desc%20img.webp",
+    "description": "This allowed us to map all the pit stops at the most convenient locations both for the local travelers and foreign visitors. The project aims to provide 53 pit stops on the highways among cities all over Azerbaijan. Each pitstop is arranged within an interval of 25 kilometers. In this project, Cobalt applies the base tone of modern elegance to match the architectural style and urban landscape. We took the surrounding environment as the basis. The mountains, roads, and flat terrain assisted in reflecting the architectural language. Light and shadows were introduced into this space and established connections between nature, space, and humans. We collaborated with the local government and analyzed carefully all the roads, locations as well as touristic destinations for the smart placement of “Dayan-Dincəl” pit stops. This allowed us to map all the pit stops at the most convenient locations both for the local travelers and foreign visitors. The project aims to provide 53 pit stops on the highways among cities all over Azerbaijan. Each pitstop is arranged within an interval of 25 kilometers.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9e203347583b80889d4_Arch%20multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9e1fa2d8a138f0b1775_Arch%20multi-img%202.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9efa94fb94f5dd172ca_inter%20head%20img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9f0811b7a2c83e3c461_inter%20head%20img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3d9ef93527f39a077b3a5_inter%20head%20img%203.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3da43b38a3f652e2d044c_inter%20desc%20image.webp",
+    "description": "",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3da49aa7ec6115ef82fd1_inter%20multi-img%201.webp"
+    ],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3da6448f58330d0e3c076_inter%20vert-multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3da64dced5237b0d5dfd8_inter%20vert-multi-img%202.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d3da839341fcb807544ee6_inter%20multi-img-2%201.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

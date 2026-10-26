@@ -1,0 +1,48 @@
+{
+  "name": "Olive Quarters",
+  "slug": "olive-quarters",
+  "displayName": "Olive Quarters",
+  "order": 14,
+  "draft": false,
+  "projectType": "Residence Project",
+  "authors": "Karlis Saltups",
+  "team": "Karlis Saltups • Ekaterina Morozova\n•Susan Aliyeva • Togrul Bayramov\n•Muslum Imranli • Elchin Aghadiyev\n•Aygun Budaq • Leyla Musayeva •Chichek Bayramli • Seymur Alizade\n•Gunay Babayeva • Asgar Asgarov\n•Kudret Demircioglu • Aida Babayeva •Sima Rzayeva • Royal Jamalli\n•Kamil Ismayilov • Farid Abdulov",
+  "status": "Proposal",
+  "year": "2018",
+  "about": "We have completed one of our most significant projects – the Inclusive Center for Creativity and Development. The main idea is to create a space of equal opportunities, where each person, regardless of their abilities, will be able to engage in creativity, exchange their experiences and share all this with the viewer. The building is designed for 3 main functions – education, self-realization and socialization.",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f31d43cdf34eccedc14eb4_iconn.webp",
+  "inSlider": false,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ecec71752d45de0df257f1_hedddd2%20(1).webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f463207df68f1ea534d051_ARCHITECTURAL%20CONCEPT.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4bdf7e4e533262fab921a_featured.webp",
+    "description": "We have completed one of our most significant projects – the Inclusive Center for Creativity and Development. The main idea is to create a space of equal opportunities, where each person, regardless of their abilities, will be able to engage in creativity, exchange their experiences and share all this with the viewer. The building is designed for 3 main functions – education, self-realization and socialization.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4d3f7dc0ac357d559e50a_Group%20947.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4613a53568709c7d2ced6_777.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [],
+    "image": "",
+    "description": "",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4c40cd5036595d8e91311_Group%20956.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4c56d71b287852ef09b5f_VOLUME.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f46f5b605c2a65f86c5073_Group%20946.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4677c6a107e448cdb5b27_Group%20943.webp"
+    ],
+    "horizontalImages": [],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4d560dc0ac30aee59ff99_COLLAGE1%20(1).webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f4d55f2e293c3dc97d8246_COLLAGE2.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

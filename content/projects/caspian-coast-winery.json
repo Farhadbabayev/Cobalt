@@ -1,0 +1,48 @@
+{
+  "name": "Caspian Coast Winery",
+  "slug": "caspian-coast-winery",
+  "displayName": "CASPIAN COAST WINERY",
+  "order": 8,
+  "draft": false,
+  "projectType": "Winery Production",
+  "authors": "Ints Mengelis",
+  "team": "Ints Mengelis • Aygun Budaq\nGunay Mammadova\n• Parviz Polukhzada",
+  "status": "Proposal",
+  "year": "2019",
+  "about": "More or less for all wine types winemaking stages are similar. It starts from maturing grapes on wine fields, collecting them when they are ready, transportation to a winery, crushing, pressing juice, fermentation process, refining the taste of wine, and then leaving for aging at stable environmental conditions. When wine is ready-tasting, bottled, and brought to the customer. The scale of the wine factory is disproportionate to the small village of Boyuk-Gamya, but creating an interior human-scale atmosphere can help bring relationships between the village and the factory back.",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea38883746d123f2fce8e2_project%20icon.webp",
+  "inSlider": false,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea34d5ad4d341a9a064911_HeaderMain.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea34f7e450517e313b70b1_Feature%20vidIMG.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea36035311360b9fb2676f_Arch%20multi-img%202.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea3629687e2c2137c938ed_Arch%20multi-img%201.webp",
+    "description": "",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea364ad68876b4f493a2d1_A%20head%20img%201%20(1).webp"
+    ]
+  },
+  "interior": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea366fad4d345e9a065f6a_inter%20multi-img%201.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea36b1fd8efb49b22df594_CCW_Caspian%20Coast%20winery_Areal%201.webp",
+    "description": "",
+    "images": [],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea37967ec2398e529b5639_4352.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea376fad4d345392067131_4357.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea36eb47fd44442bf9ec90_inter%20multi-img%203.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

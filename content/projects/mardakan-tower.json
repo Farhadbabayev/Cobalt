@@ -1,0 +1,50 @@
+{
+  "name": "Mardakan Park",
+  "slug": "mardakan-tower",
+  "displayName": "Mardakan Tower",
+  "order": 16,
+  "draft": false,
+  "projectType": "Revitalization and Regeneration",
+  "authors": "Karlis Saltups",
+  "team": "Guntis Zingis, Ardit Elezi, Asqar Asqarov, Susan Aliyeva, Sabuhi Ramazanov, Bahruz Seyidbayli",
+  "status": "Completed",
+  "year": "2021",
+  "about": "The Round Castle is one of the famous fortresses of the Mardakan village, located 36 kilometers from Baku, Azerbaijan. The Mardakan round castle is also called Sheik castle by the locals. According to inscriptions, the castle was built in 1232 by the architect Abdulmajid Masud. The 16-meter-high castle is inside a courtyard with a 7-meter-high wall. The interior of the Mardakan castle is divided into three floors. The floors of the castle are connected to each other by masonry steps. Narrow windows were opened in the walls to illuminate the castle. The castle was built of limestone.",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb2f003a23173e5747602c_ICON.webp",
+  "inSlider": true,
+  "sliderImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb2f003a23173e5747602c_ICON.webp",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6440d5005bc4caef08e50577_MAINPAGE.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6422dc4cee8ff6e3cfe990e6_Asset%202qweqweee%D1%86.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/64243b06288fe85517e36698_maaap%D1%83%D1%83%D1%83.webp",
+    "description": "Cobalt Architecture and Design took the initiative of renovating the historical round tower area in 2020, and completed the project in the summer of 2022. The goal of the project was to turn the historical tower site into a beautiful park. The existing trees were preserved and the area of the park was enriched with more trees and greenery. Stylish pergolas, high-quality benches, and lighting were installed throughout the park. The improvement of the park is also important because there are guided tours for adults and children. The existing road was repaired with the same materials and new lanes were built. Two sides of the surrounding walls of the park were rebuilt. The main entrance to the park is located on one of these walls. The sanitary junction located in the corner was demolished and a new guard room as well as sanitary junctions were built in its place. Chat rooms were set up in the park for people's relaxation. There are 3 ancient historical wells on the territory of the park. It was proposed to repair and restore those wells. The historical castle located in the territory of the park remained as it was.The place once dull and sandy now looks tidier, cleaner, and greener. The tower is now being preserved by the Azerbaijani government and is included in UNESCO World Heritage List.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/642ab87650279a39dd8931a2_Asset%209DED22.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6422ccdab46b4abfc04ad246_Asset%201qweqwee%D1%86.png"
+    ]
+  },
+  "interior": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f5d5f2a903c2068e83f9ac_Group%20958.webp",
+    "description": "",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6422cd85a12fcd42be2636e2_Asset%209qweqwee%D1%86.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f5d33c23a60f69cf302f53_m4.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/642ac0e4daa79683118f565e_Asset%202DED22.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/642ac0e4972b9e71abe9adb6_Asset%203DED223.webp"
+    ],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63f5d5f2a903c2068e83f9ac_Group%20958.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6422cd8d2b68e304529ed3fb_Asset%206qweqwee%D1%86.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6422f5317653b48b7da2e76c_Asset%2010DED.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "28 May",
+  "slug": "28-may",
+  "displayName": "28 May",
+  "order": 6,
+  "draft": false,
+  "projectType": "Residential / Commercial",
+  "authors": "Ints Mengelis",
+  "team": "• Ints Mengelis\n• Eduards Beernaerts\n• Gunay Mammadova• Aygun Budaq\n• Leyla Musayeva• Janis Gavars",
+  "status": "Under Construction",
+  "year": "2019",
+  "about": "The project originated from the previously existing unfinished structural framework of a building. Therefore, when starting the project we had already defined concept boundaries and we have introduced new functionality based on the detailed study of the area.",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d7690d54c09d4578898e0a_4.png",
+  "inSlider": false,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d551bd3dc29b91669c3030_28%20may.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2a76bb15a61123003900_Feature%20vidIMG.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2ac347fd4446edf906e2_A%20head%20img%201%20(1).webp",
+    "description": "28 May area is one of the main busy transport hubs of the city where the railway station, subway, scheduled buses, as well as private transport intersect. Also, this site is a functioning trading spot. We have made a proposal of a project that would incorporate functions of a hotel and luxury residence building. The location is quite favorable – five minutes’ walk from the city center, right next to the Central Train Station – the capital landmark built in 1880, a subway, and a hospital. The ground floor of the nine-floor residence has a parking lot for 128 cars. It is comprised of a grocery market, a small bazaar as well as an entrance (reception area) for the hotel and private residence.\nFrom the third to the fifth floor, we designed compact apartments with mezzanines. Functional bedrooms were placed into these units. The composition of the sixth floor includes two cozy but elegant cafes separated by a beautiful park on the roof. There is also a fitness center, a kindergarten with an exit to the green space and fresh air - a landscaped area of ​​513 m2.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb4b52097e203ba308c3d1_arch%20desc%20img.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2b285311362ba5b1222b_Arch%20multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d5523854f67cf8d73735d1_Arch%20multi-img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d552383dc29bc4519c338c_Arch%20multi-img%203.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2b89171f07548fb75f9c_inter%20desc%20image.webp",
+    "description": "",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d552a3d03a89ab5ca52f19_inter%20multi-img%201.webp"
+    ],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d552c1c09c1b849ca57332_inter%20vert-multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d552c154f67c93d2373b52_inter%20vert-multi-img%202.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d552c613f3a749d932770f_inter%20multi-img-2.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

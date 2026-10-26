@@ -1,0 +1,64 @@
+{
+  "name": "Creative Centre \"Dost\"",
+  "slug": "dost",
+  "displayName": "Creative Centre \"Dost\"",
+  "order": 1,
+  "draft": false,
+  "projectType": "Social Project",
+  "authors": "Karlis Saltups, Ekaterina Morozova",
+  "team": "Karlis Saltups • Ekaterina Morozova\nSusan Aliyeva • Togrul Bayramov\nMuslum Imranli • Elchin Aghadiyev\nAygun Budaq • Leyla Musayeva Chichek Bayramli • Seymur Alizade\nGunay Babayeva • Asgar Asgarov\nKudret Demircioglu • Aida Babayeva Sima Rzayeva • Royal Jamalli\nKamil Ismayilov • Farid Abdulov",
+  "status": "Completed",
+  "year": "2021",
+  "about": "We have completed one of our most significant projects – the Inclusive Center for Creativity and Development. The main idea is to create a space of equal opportunities, where each person, regardless of their abilities, will be able to engage in creativity, exchange their experiences and share all this with the viewer. The building is designed for 3 main functions – education, self-realization and socialization.",
+  "featured": true,
+  "featuredImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d553fd1c71e03819efe31f_dost_selected.png",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d76988dbdc86ec6affd3c4__DGM6513-HDR%202.png",
+  "inSlider": true,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2f35fbba3887591588cf_Group%20876.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/640738bdf3b880f37acc4070__DGM6818-HDR%202.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1c985c56b254336a00b6_2.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63ea2f95fd88cb1860b7ec6c_333%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1c98763a9e97005203b9_4.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1cab1a2c846a7076a7a2_5.webp",
+    "description": "The core of the multifunctional center is an auditorium with a capacity of 122 seats, which is surrounded with educational and creative classrooms, as well as a library and a cafe.All the premises are united by the exhibition halls, flowing into the external environment – the area of the Center, which also serves as an exposition and creative platform. This connection with nature is establishing a model for a creative community guided by the principle that art is fundamental to human expression and that all people are entitled to its tools of communication.\nIn this project, Cobalt applies the base tone of modern elegance to match the architectural style and urban landscape. We took the surrounding environment as the basis. The mountains, roads, and flat terrain assisted in reflecting the architectural language. Light and shadows were introduced into this space and established connections between nature,\nspace, and humans.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd09a35c56b243ff67bfd8_6.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd09a3f604a325558edc04_7.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1e0ca9ca4203d3d67581_at1.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1e0c993f00930b4ffbf1_at2.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1e0c1a2c84011576ba12_at3.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1e2415116f6d056db0cb_11.webp",
+    "description": "The core of the multifunctional center is an auditorium with a capacity of 122 seats, which is surrounded with educational and creative classrooms, as well as a library and a cafe.All the premises are united by the exhibition halls, flowing into the external environment – the area of the Center, which also serves as an exposition and creative platform. This connection with nature is establishing a model for a creative community guided by the principle that art is fundamental to human expression and that all people are entitled to its tools of communication.\nIn this project, Cobalt applies the base tone of modern elegance to match the architectural style and urban landscape. We took the surrounding environment as the basis. The mountains, roads, and flat terrain assisted in reflecting the architectural language. Light and shadows were introduced into this space and established connections between nature,\nspace, and humans.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd0db4b086d486e5ef3aab_14.webp"
+    ],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1e858de9f25d67479c6a_QEQEQQQ.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1c48440ed714c0f29674_33321.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd2c6f1fe6f57896633006_1221.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd2cacd2b9133de08c9d6c_2113.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd2cb0b086d44608f138aa_1243.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1e90993f00781450043c_ED.webp"
+    ],
+    "horizontalImages2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1e858de9f25d67479c6a_QEQEQQQ.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1e7efbf4f5653e243e09_EDEQWQ.webp"
+    ],
+    "images3": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6407367279458d2f9224d38b_teatr.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63cd1f070949d91a7b2f3899_image%202.webp"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Shamakhi Villa",
+  "slug": "shamakhi-villa",
+  "displayName": "Shamakhi Villa",
+  "order": 3,
+  "draft": false,
+  "projectType": "Private Residence",
+  "authors": "Karlis Saltups",
+  "team": "Ints Mengelis • Aygun Budaq\nGunay Mammadova • Ardit Elezi\nSeymur Alizade • Roman Kaziyev\nTogrul Bayramov • Gunay Mammadova Muslim Imranli",
+  "status": "Under Construction",
+  "year": "2019",
+  "about": "Shamaha Villa is made up of a cluster of buildings located in a mountainous area of Azerbaijan. It consists of an entrance complex, a main house, an art workshop pavilion, and two guest houses.\nThe unique natural landscape sets the tone for the architectural ensemble. The magnificent view of the mountains and enclave’s remoteness from the bustle of the city makes it a precious jewel.\nAmong the lush greenery, the finishing materials of the facade look advantageous - river stone, wood and metal details favorably emphasize its shape.",
+  "featured": true,
+  "featuredImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d54f86050b76485aa164eb_shamakhi_selected.png",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d769332fb109e9a3996e98_Cam008_final_01_post.png",
+  "inSlider": true,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/640ad1892e2b164040ffb852_Group%20872.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55027d03a89318ba4fe39_Feature%20vidIMG.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/6426c67a02569d4b4fc95dcf_12222.webp",
+    "description": "Located on the lower part of the slope, the main building is protected from noise and concealed from view by dense vegetation. The wooded terrain creates privacy for each building on the property. For example, the workshop and guest houses are quite close to the main building, however their presence is not immediately apparent thanks to the surrounding greenery. The terrain with its prominent trees and mountains is connected to the villa by trails that complement the diverse natural landscape. The main building consists of two intersecting volumes of different heights and floors - this is due to the location’s geographical relief. Thus, we have accomplished 3 levels: an entrance, a living room and a kitchen are located in the main level, a gym and a small spa in the lower. Bedrooms are positioned in a separate part of the upper level.Art Workshop pavilion is inspired by The Pantheon - a monument of ancient architecture.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/643518dc39b63bf90b82d70e_Group%20963.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/643518dbfd7e73fd9a0f6c4c_Group%20964.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/643518dca77e842420413e1a_Group%20965.webp"
+    ]
+  },
+  "interior": {
+    "topImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55053f7e09b5c3a288790_inter%20head%20img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55053b0a17e82e1e1f257_inter%20head%20img%202.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55053874a8745c5bfc54e_inter%20head%20img%203.webp"
+    ],
+    "image": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55063f3546d14b1a7ced1_inter%20desc%20image.webp",
+    "description": "The main building consists of two intersecting volumes of different heights and floors - this is due to the location’s geographical relief. Thus, we have accomplished 3 levels: an entrance, a living room and a kitchen are located in the main level, a gym and a small spa in the lower. Bedrooms are positioned in a separate part of the upper level. The simplicity and asceticism of Shamakhi Villa are combined with innovative engineering and architectural solutions.The building has exits to terraces of different functional purposes. They are interconnected by bridges and stairs ¬– this allows to choose the most comfortable place depending on the preference and type of rest. Outside the villa windows there is a beautiful view of the mountains.",
+    "images": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d55093d03a891bf5a50ce5_Bedroom_Print_Cam_001_P-1-edit.webp"
+    ],
+    "horizontalImages": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d5507bd03a89254aa50734_inter%20vert-multi-img%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d5507b0f220431918a081c_inter%20vert-multi-img%202.webp"
+    ],
+    "images2": [
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d550756f089e0e429ee9ff_inter%20multi-img-2%201.webp",
+      "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63d550cc0f220414258a1056_inter%20multi-img-2%202.webp"
+    ],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}

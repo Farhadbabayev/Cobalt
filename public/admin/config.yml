@@ -1,0 +1,89 @@
+# Decap CMS admin panel: https://decapcms.org/docs/configuration-options/
+# Every save is a commit to GitHub; Vercel then rebuilds the site (takes ~1 minute).
+backend:
+  name: github
+  repo: Farhadbabayev/Cobalt
+  branch: main
+  auth_endpoint: api/auth
+
+media_folder: public/uploads
+public_folder: /uploads
+site_url: https://cobalt.az
+locale: en
+
+collections:
+  - name: projects
+    label: Projects
+    label_singular: Project
+    folder: content/projects
+    extension: json
+    format: json
+    create: true
+    slug: "{{fields.slug}}"
+    identifier_field: name
+    summary: "{{order}}. {{name}} ({{year}})"
+    sortable_fields: [order, name, year]
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: "Slug (URL: /projects/slug)", name: slug, widget: string, pattern: ["^[a-z0-9-]+$", "Only lowercase letters, digits and dashes"] }
+      - { label: "Name on project page (optional)", name: displayName, widget: string, required: false }
+      - { label: "Order (smaller = first)", name: order, widget: number, value_type: int, required: false }
+      - { label: "Draft (hide from site)", name: draft, widget: boolean, default: false }
+      - { label: Project Type, name: projectType, widget: string, required: false }
+      - { label: Authors, name: authors, widget: string, required: false }
+      - { label: Team, name: team, widget: text, required: false }
+      - { label: Status, name: status, widget: string, required: false }
+      - { label: Year, name: year, widget: string, required: false }
+      - { label: About, name: about, widget: text, required: false }
+
+      - { label: "Show in Selected Projects (home page)", name: featured, widget: boolean, default: false }
+      - { label: "Selected Projects image", name: featuredImage, widget: image, required: false }
+      - { label: "Show in Completed Projects slider (home page)", name: inSlider, widget: boolean, default: false }
+      - { label: "Slider image (empty = Projects page image)", name: sliderImage, widget: image, required: false }
+      - { label: "Projects page image", name: listImage, widget: image, required: false }
+
+      - { label: "Project page: header image", name: headerImage, widget: image, required: false }
+      - { label: "Project page: feature image", name: featureImage, widget: image, required: false }
+      - { label: "Project page: feature video URL (replaces the image)", name: featureVideo, widget: string, required: false }
+
+      - label: Architecture
+        name: architecture
+        widget: object
+        collapsed: true
+        fields:
+          - { label: "Top images (2-3)", name: topImages, widget: list, field: { label: Image, name: image, widget: image }, required: false }
+          - { label: "Image above description", name: image, widget: image, required: false }
+          - { label: Description, name: description, widget: text, required: false }
+          - { label: Gallery, name: images, widget: list, field: { label: Image, name: image, widget: image }, required: false }
+
+      - label: Interior
+        name: interior
+        widget: object
+        collapsed: true
+        fields:
+          - { label: "Top images (2-3)", name: topImages, widget: list, field: { label: Image, name: image, widget: image }, required: false }
+          - { label: "Image above description", name: image, widget: image, required: false }
+          - { label: Description, name: description, widget: text, required: false }
+          - { label: "Gallery 1", name: images, widget: list, field: { label: Image, name: image, widget: image }, required: false }
+          - { label: "Horizontal gallery 1", name: horizontalImages, widget: list, field: { label: Image, name: image, widget: image }, required: false }
+          - { label: "Gallery 2", name: images2, widget: list, field: { label: Image, name: image, widget: image }, required: false }
+          - { label: "Horizontal gallery 2", name: horizontalImages2, widget: list, field: { label: Image, name: image, widget: image }, required: false }
+          - { label: "Gallery 3", name: images3, widget: list, field: { label: Image, name: image, widget: image }, required: false }
+
+  - name: team
+    label: Team
+    label_singular: Team member
+    folder: content/team
+    extension: json
+    format: json
+    create: true
+    slug: "{{fields.slug}}"
+    identifier_field: name
+    summary: "{{name}} ({{position}})"
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: "Slug (file name)", name: slug, widget: string, pattern: ["^[a-z0-9-]+$", "Only lowercase letters, digits and dashes"] }
+      - { label: Position, name: position, widget: string, required: false }
+      - { label: Photo, name: photo, widget: image, required: false }
+      - { label: "Order (smaller = first)", name: order, widget: number, value_type: int, required: false }
+      - { label: "Draft (hide from site)", name: draft, widget: boolean, default: false }

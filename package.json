@@ -1,0 +1,21 @@
+{
+  "name": "cobalt-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && npx --yes serve@14.2.4 dist",
+    "import:projects": "node scripts/import-webflow-csv.mjs projects",
+    "import:team": "node scripts/import-webflow-csv.mjs team",
+    "download-images": "node scripts/download-webflow-images.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "nunjucks": "3.2.4"
+  },
+  "devDependencies": {
+    "csv-parse": "5.5.6"
+  }
+}

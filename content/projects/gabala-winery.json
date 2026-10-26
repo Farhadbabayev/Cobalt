@@ -1,0 +1,37 @@
+{
+  "name": "Gabala Winery",
+  "slug": "gabala-winery",
+  "displayName": "Gabala Winery",
+  "order": 16,
+  "draft": false,
+  "projectType": "Winery Production",
+  "authors": "Karlis Saltups,",
+  "team": "Karlis Saltups • Ekaterina Morozova\nSusan Aliyeva • Togrul Bayramov\nMuslum Imranli • Elchin Aghadiyev\nAygun Budaq • Leyla Musayeva Chichek Bayramli • Seymur Alizade\nGunay Babayeva • Asgar Asgarov\nKudret Demircioglu • Aida Babayeva Sima Rzayeva • Royal Jamalli\nKamil Ismayilov • Farid Abdulov",
+  "status": "Proposal",
+  "year": "2019",
+  "about": "Gabala TEXT////////////////",
+  "featured": false,
+  "featuredImage": "",
+  "listImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb41ebf03250c04fa7f443_icon.webp",
+  "inSlider": false,
+  "sliderImage": "",
+  "headerImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb4313baab5d5b75da6493_header.webp",
+  "featureImage": "https://uploads-ssl.webflow.com/627fc0a139e6f51d80cff952/63eb43629b865e6d59ffd019_Feature%20vidI3MG.webp",
+  "featureVideo": "",
+  "architecture": {
+    "topImages": [],
+    "image": "",
+    "description": "",
+    "images": []
+  },
+  "interior": {
+    "topImages": [],
+    "image": "",
+    "description": "",
+    "images": [],
+    "horizontalImages": [],
+    "images2": [],
+    "horizontalImages2": [],
+    "images3": []
+  }
+}
